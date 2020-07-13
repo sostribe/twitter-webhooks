@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/super-ienien/twitter-webhooks.git"
+    "url": "git+https://github.com/sostribe/twitter-webhooks.git"
   },
   "keywords": [
     "twitter",
@@ -21,9 +21,9 @@
   "author": "Vivien Anglesio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/super-ienien/twitter-webhooks/issues"
+    "url": "https://github.com/sostribe/twitter-webhooks/issues"
   },
-  "homepage": "https://github.com/super-ienien/twitter-webhooks#readme",
+  "homepage": "https://github.com/sostribe/twitter-webhooks#readme",
   "dependencies": {
     "request": "^2.88.0"
   },
